@@ -1,14 +1,19 @@
 # Introduction
 
-**The mission of the Layers Project is to redistribute decision-making power over the natural and built environment by making the material and energetic basis of human life accessible to all.**
+**The mission of the Layers Project is to redistribute decision-making power over the natural and built environment by making information about the material and energetic basis of human life accessible to all.**
 
-To accomplish this mission, the Layers Project will observe -- and continuously re-observe -- every consequential act of extraction, transformation, refinement, transportation, distribution, and disposal of material and energy resources on the planet. The Project will make all of this data accessible to anyone, for any purpose, with exceptions only for uses that directly support violence or physical harm. Profit-seeking use of the data is allowed, and encouraged, under commercial terms.
+To accomplish this mission, the Layers Project will observe -- and continuously re-observe -- every consequential act of extraction, transformation, refinement, transportation, distribution, and disposal of material and energy resources on the planet. The Project will make all of this data accessible to anyone, for any purpose, with exceptions only for uses that directly support violence or physical harm. Profit-seeking use of the data is allowed, and even encouraged, under commercial terms.
 
-Because the data collected by the Layers Project is accessible to all, it will be accessible to -- and accessed by -- governments and private entities. A core principle of the Project is that its existence must not increase the coercive control of existing power centers over individuals and societies.
+Because the data collected by the Layers Project is available to all, it will be accessible to -- and accessed by -- governments and private entities. A core principle of the Project is that its existence must not increase the coercive control of existing power centers over individuals and societies.
 
 The Layers Project does not pierce the household veil. It does not collect data about individuals, their behaviors -- whether as individuals, consumers, or employees. It does not track the movements of privately-owned vehicles, the shipments or packages that arrive at homes, or gatherings or activities that occur in public or private spaces. Where such information is inadvertently collected, robust processes will be created and maintained to remove it from the system at the earliest possible point. 
 
 The Project will be a collective effort of many people, diverse in skillset, ability, location, age, and culture. The means of its production -- observation, checking, data distribution, governance, and so on -- are designed to foster sustainability, equitability, and collective reward. Many people will have to devote substantial time and effort to the endeavor over decades, and the Project is designed to reward all participants commensurate with their contributions.
+
+# Goals
+
+> Move from a mindset of material abundance and energy scarcity to the opposite -- material scarcity and energy abundance.
+
 
 # Political Stances
 
