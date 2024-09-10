@@ -48,14 +48,17 @@
 | | Packing / Processing Plants | Transformer | | GIS, Public Internet, Direct |
 | **Air Transportation** | Aircraft | Conveyance | | Public Internet |
 | | Flights | Flow | | 
-| | Airport | | |
-| | Runway | | | 
+| | Airports | | |
+| | Runways | | | 
 | **Marine Transportation** | Oil Tankers | Conveyance | | Private Internet |
 | | Bulk Carriers | Conveyance | | Private Internet |
 | | LNG Carriers | Conveyance | | Private Internet |
 | | Container Ships | Conveyance | | Private Internet |
 | | Ship Loaders & Cranes | Conveyance | | GIS |
-| | Ship Transits | Flow | | Private Internet |
+| | Ship Voyages | Flow | | Private Internet |
+| | Ports | | |
+| | Terminals | | |
+| | Berths | | |
 | **Ground Transportation** | Trucks | Conveyance | | Direct |
 | | Rail Cars | Conveyance | | Direct |
 | | Railway | Conveyance | | GIS |
