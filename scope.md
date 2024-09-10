@@ -48,6 +48,8 @@
 | | Packing / Processing Plants | Transformer | | GIS, Public Internet, Direct |
 | **Air Transportation** | Aircraft | Conveyance | | Public Internet |
 | | Flights | Flow | | 
+| | Airport | | |
+| | Runway | | | 
 | **Marine Transportation** | Oil Tankers | Conveyance | | Private Internet |
 | | Bulk Carriers | Conveyance | | Private Internet |
 | | LNG Carriers | Conveyance | | Private Internet |
